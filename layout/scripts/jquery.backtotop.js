@@ -7,7 +7,6 @@ Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 File: Back to Top JS
 */
-
 jQuery("#backtotop").click(function () {
     jQuery("body,html").animate({
         scrollTop: 0
