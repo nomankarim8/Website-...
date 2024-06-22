@@ -20,4 +20,3 @@ jQuery(window).scroll(function () {
     }
 });
 
-
